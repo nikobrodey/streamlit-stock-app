@@ -1,4 +1,6 @@
+numpy==1.21.0
 streamlit
 yfinance
+pandas
 pandas_ta
-numpy==1.19.5
+
