@@ -1,1 +1,4 @@
--e "streamlit\nyfinance\npandas_ta" 
+streamlit
+yfinance
+pandas_ta
+
