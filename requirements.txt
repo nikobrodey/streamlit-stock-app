@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==5.0.1
 attrs==23.2.0
 backports.zoneinfo==0.2.1
@@ -60,3 +61,11 @@ watchdog==3.0.0
 webencodings==0.5.1
 yfinance==0.2.40
 zipp==3.15.0
+=======
+numpy==1.21.0
+streamlit
+yfinance
+pandas
+pandas_ta
+
+>>>>>>> aa39c0c9ea5a77f00990d54b9903632e07f1f363
